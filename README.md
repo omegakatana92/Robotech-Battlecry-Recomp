@@ -32,7 +32,7 @@ See [docs/STEAM-DECK-TESTING.md](docs/STEAM-DECK-TESTING.md) for the verified lo
 
 **No game ISO, copyrighted PS2 executable, game assets, BIOS, or memory card saves are provided.** This repository is not affiliated with or endorsed by the game's rights holders. Robotech and related marks belong to their respective owners.
 
-This repository currently contains a GPL-2.0 license file. That does not automatically establish the licensing of upstream code or generated outputs; check and comply with all applicable licenses before redistributing compiled code or binaries. No compiled game binary is published here.
+Original material in this repository is offered under the [PolyForm Noncommercial License 1.0.0](LICENSE), with a copyright notice for omegakatana92. This license permits use, modification and distribution for noncommercial purposes only. It does **not** relicense upstream tools, third-party components, game content, or generated outputs that may carry separate rights or restrictions. Check all applicable licenses before distributing compiled code or binaries. No compiled game binary is published here.
 
 ## Credits
 
