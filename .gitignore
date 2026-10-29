@@ -1,0 +1,43 @@
+# Game images, executable dumps, and copyrighted assets
+*.iso
+*.bin
+*.cue
+*.chd
+*.img
+*.elf
+*.ELF
+*.irx
+*.IRX
+SLES_*
+SLUS_*
+SLPM_*
+SLPS_*
+disc/
+roms/
+
+# Generated builds and outputs
+build/
+generated/
+*.AppImage
+*.AppDir/
+*.o
+*.so
+*.a
+CMakeFiles/
+CMakeCache.txt
+
+# User data and runtime artifacts
+*.ps2
+*.psu
+*.max
+*.cbs
+*.inputs
+keys.ini
+states/
+logs/
+*.log
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
